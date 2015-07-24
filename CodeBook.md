@@ -26,11 +26,11 @@ Datasets being used are datasets from University of California Irvie in which th
 
 ## Measurements
 
-1	tBodyAccMeanX
-2	tBodyAccMeanY
-3	tBodyAccMeanZ
-4	tBodyAccStdX
-5	tBodyAccStdY
+<br>1	tBodyAccMeanX
+<br>2	tBodyAccMeanY
+<br>3	tBodyAccMeanZ
+<br>4	tBodyAccStdX
+<br>5	tBodyAccStdY
 6	tBodyAccStdZ
 7	tGravityAccMeanX
 8	tGravityAccMeanY
